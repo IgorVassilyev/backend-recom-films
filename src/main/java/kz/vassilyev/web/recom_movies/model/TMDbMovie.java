@@ -7,7 +7,7 @@ import java.util.List;
 
 @Getter
 @Setter
-public class Movie {
+public class TMDbMovie {
     private boolean adult;
     private String backdrop_path;
     private List<Integer> genre_ids;

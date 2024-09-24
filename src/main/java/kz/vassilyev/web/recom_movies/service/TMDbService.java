@@ -1,6 +1,5 @@
 package kz.vassilyev.web.recom_movies.service;
 
-import kz.vassilyev.web.recom_movies.model.Movie;
 import kz.vassilyev.web.recom_movies.model.response.MovieResponse;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
