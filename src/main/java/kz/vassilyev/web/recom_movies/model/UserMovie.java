@@ -23,7 +23,7 @@ public class UserMovie {
     private String title;
     @Column(name = "release_date")
     private String releaseDate;
-    @Column(name = "genre_ids")
+    @Column(name = "genre")
     private List<Integer> genreIds;
 
 
